@@ -1,0 +1,72 @@
+figure {
+   clear: right;
+   float: right;
+}
+
+
+
+body 
+
+{
+
+    width: 70%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+}
+
+ 
+
+h1
+
+{
+
+    font-size: 32px;
+
+}
+
+ 
+
+h1,h2,h3
+
+{
+
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+
+    margin-top: 1.5em;
+
+}
+
+ 
+
+table
+
+{
+
+    border: 1px solid black;
+
+}
+
+ 
+
+figcaption
+
+{
+
+    font-style: italic;
+
+}
+
+ 
+
+figure
+
+{
+
+    float: left;
+
+    margin: 4px 10px 2px 0px;
+
+}
